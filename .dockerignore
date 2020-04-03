@@ -1,0 +1,6 @@
+# Ignore everything
+**
+
+!/src/*.sln
+!/src/*.cs
+!/src/*.csproj
